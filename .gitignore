@@ -1,2 +1,9 @@
+.settings/
+bin/
+data/
+target/
+.cache-main
+.classpath
+.project
 *.class
 *.log
